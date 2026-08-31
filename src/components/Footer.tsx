@@ -106,7 +106,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onOpenAdmin })
               </a>
 
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919863097510"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-9 h-9 rounded-full bg-emerald-950 hover:bg-emerald-900 flex items-center justify-center text-emerald-400 hover:text-white transition-colors border border-emerald-800"
@@ -191,7 +191,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onOpenAdmin })
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-3.5 h-3.5 text-neutral-500 shrink-0" />
-                <span>+91 98765 43210 (10 AM - 7 PM IST)</span>
+                <span>+91 98630 97510 (WhatsApp Support)</span>
               </div>
 
               {/* Payment Methods Badges */}

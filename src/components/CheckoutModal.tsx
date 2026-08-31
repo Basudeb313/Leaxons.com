@@ -42,7 +42,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
   const [formData, setFormData] = useState<ShippingAddress>({
     fullName: 'Aarav Mehta',
     email: 'aarav.mehta@example.com',
-    phone: '9876543210',
+    phone: '9863097510',
     pincode: '560001',
     city: 'Bengaluru',
     state: 'Karnataka',
@@ -430,7 +430,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
             {/* WhatsApp Direct Notification */}
             <div className="flex flex-col sm:flex-row gap-3 w-full">
               <a
-                href={`https://wa.me/919876543210?text=Hi%20Leaxons%2C%20I%20just%20placed%20Order%20${createdOrder.orderNumber}%20for%20₹${createdOrder.total}.%20Please%20send%20tracking%20updates!`}
+                href={`https://wa.me/919863097510?text=Hi%20Leaxons%2C%20I%20just%20placed%20Order%20${createdOrder.orderNumber}%20for%20₹${createdOrder.total}.%20Please%20send%20tracking%20updates!`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs py-3.5 px-4 rounded-xl flex items-center justify-center gap-2 transition-colors cursor-pointer"

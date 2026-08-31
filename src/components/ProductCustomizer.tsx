@@ -269,7 +269,7 @@ export const ProductCustomizer: React.FC<ProductCustomizerProps> = ({
       (textSummary ? `Custom Elements:\n${textSummary}\n` : '') +
       `Please confirm stock & dispatch timeline!`;
 
-    return `https://wa.me/919876543210?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/919863097510?text=${encodeURIComponent(message)}`;
   };
 
   // Add to cart handler

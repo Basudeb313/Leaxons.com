@@ -8,7 +8,7 @@ export const WhatsAppFloatingButton: React.FC = () => {
         Chat with Merch Expert / Quick Order
       </span>
       <a
-        href="https://wa.me/919876543210?text=Hi%20Leaxons%20team%2C%20I%20need%20help%20customizing%20my%20merchandise!"
+        href="https://wa.me/919863097510?text=Hi%20Leaxons%20team%2C%20I%20need%20help%20customizing%20my%20merchandise!"
         target="_blank"
         rel="noopener noreferrer"
         id="floating-whatsapp-btn"

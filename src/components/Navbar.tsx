@@ -183,7 +183,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
             {/* Direct WhatsApp Order Button */}
             <a
-              href="https://wa.me/919876543210?text=Hi%20Leaxons%2C%20I%20want%20to%20place%20a%20custom%20print%20order%20for%20my%20merchandise!"
+              href="https://wa.me/919863097510?text=Hi%20Leaxons%2C%20I%20want%20to%20place%20a%20custom%20print%20order%20for%20my%20merchandise!"
               target="_blank"
               rel="noopener noreferrer"
               id="whatsapp-header-btn"
@@ -294,7 +294,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </button>
 
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919863097510"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-emerald-50 text-emerald-800 border border-emerald-200 text-sm font-medium py-3 rounded-xl flex items-center justify-center gap-2"
