@@ -1,0 +1,8 @@
+{
+  "name": "Leaxons",
+  "description": "Leaxons - Premium Custom Printing D2C Brand. Make It Yours. Custom T-Shirts, Mugs, Caps, Keychains, Mousepads & Photo Frames with Live 3D Customizer, Razorpay, UPI, COD & Pan-India Express Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
